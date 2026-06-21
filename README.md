@@ -1,20 +1,20 @@
-[alerts.txt](https://github.com/user-attachments/files/29182571/alerts.txt)# Python Intrusion Detection System (IDS)
+# Python Intrusion Detection System (IDS)
 This project is a basic IDS written in Python. The script will analyze system log files, identify failed login attempts, and any other suspicious activity by looking for predefined patterns using (re).
 The goal of this project is to demonstrate how Python can be used to perform a basic log analysis and detect potetial threats found in SSH  logs.
 
 Features:
-Reads and SSH log files
-Identifies filed password attempts
-Detects invalid user login attempts
-Detects authentication failures
-Detects failed connections
-Displays Detected events in console
-Generates and Alert.txt file to report findings
+1. Reads and SSH log files
+2. Identifies filed password attempts
+3. Detects invalid user login attempts
+4. Detects authentication failures
+5. Detects failed connections
+6. Displays Detected events in console
+7. Generates and Alert.txt file to report findings
 
 What You'll Need:
-Python 3.3.14 (or other version)
-Jupyter Notebook
-Visual Studio Code (or VSCode alternative)
+1. Python 3.3.14 (or other version)
+2. Jupyter Notebook
+3. Visual Studio Code (or VSCode alternative)
 
 How to use:
 Download from this repository
